@@ -6,7 +6,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.neighbors import NearestNeighbors
 import random
 
-
 # ==================== ML WORD GUESSER ====================
 
 class MLWordGuesser:
