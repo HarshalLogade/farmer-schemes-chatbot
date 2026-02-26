@@ -9,6 +9,7 @@ This project was developed during **InnovateYou Techathon 2026** to improve awar
 ## 🚀 Features
 
 ✅ Interactive chatbot in command-line
+✅ Machine learning-based scheme recommendation using Nearest Neighbors  
 ✅ Personalized scheme recommendations
 ✅ Filters based on:
 
@@ -124,6 +125,7 @@ Flask is used to structure the backend, making the system ready for integration 
 * Voice assistant integration
 * AI and LLM-based smart recommendations
 * Live government API integration
+
 
 ---
 
