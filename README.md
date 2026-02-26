@@ -101,6 +101,14 @@ python chatbot.py
    * Crops or activities
    * Farmer type
 2. It processes the input.
+## 🤖 Machine Learning Approach
+
+This chatbot uses a hybrid approach combining rule-based filtering and machine learning.
+
+The **Nearest Neighbors algorithm** is used to recommend government schemes by finding similarity between the farmer’s profile and existing scheme eligibility conditions. This improves personalization and allows scalable recommendations.
+
+Flask is used to structure the backend, making the system ready for integration with web or mobile applications in the future.
+
 3. Matches it with the schemes dataset.
 4. Displays personalized scheme recommendations.
 
