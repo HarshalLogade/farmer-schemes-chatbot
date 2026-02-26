@@ -44,9 +44,11 @@ This chatbot collects farmer details and matches them with suitable government s
 ## 🛠️ Tech Stack
 
 * Python
+* Flask (Backend API)
+* Machine Learning – Nearest Neighbors Algorithm
 * JSON (for scheme database)
 * CLI-based chatbot
-* Rule-based recommendation logic
+* Rule-based + ML hybrid recommendation system
 
 ---
 
